@@ -1,0 +1,18 @@
+html,
+body {
+  height: 100%;
+  width: 100%;
+}
+body {
+  color: whitesmoke;
+  font-family: 'Anek Telugu', sans-serif;
+  background-color: #e861a0;
+}
+
+button {
+  background-color: #e861a0;
+  color: whitesmoke;
+  width: 10%;
+  font-size: 130%;
+  height: 5%;
+}
