@@ -1,0 +1,26 @@
+body {
+  font-family: 'Anek Telugu', sans-serif;
+  font-family: 'Roboto', sans-serif;
+  background-color: dodgerblue;
+  color: white
+}
+
+div {
+  color: yellow;
+}
+
+button {
+  color: white;
+  background-color: transparent;
+  border-color: royalblue;
+  font-size: 20px;
+  padding: 10px;
+  border-radius: 10px;
+  -moz-border-radius: 20px;
+  -webkit-border-radius: 20px;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
